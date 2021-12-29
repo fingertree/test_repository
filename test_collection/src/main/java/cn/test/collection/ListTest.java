@@ -15,7 +15,7 @@ public class ListTest {
 
     public static void main(String[] args) {
 
-                /*
+         /*
         List接口中常用方法：
         增加：add(int index, E element)
         删除：remove(int index)  remove(Object o)
