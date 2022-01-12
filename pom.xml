@@ -10,6 +10,7 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>test_collection</module>
+        <module>test_thread</module>
     </modules>
     <dependencyManagement>
         <dependencies>
